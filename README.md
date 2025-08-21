@@ -19,7 +19,7 @@ This is a fully functional, fullstack **Netflix Clone** built with the **MERN st
 * ⚒️ REST API built with Express.js & MongoDB
 * ⚛️ Clean React component architecture
 * ↻ State management with Zustand
-* 🌐 Axios-powered frontend/backend integration
+* 🌐 Axios-powered frontend/backend integration.
 * 🚀 Fully deployed on **Render**
 
 ---
